@@ -17,3 +17,5 @@ https://www.kaggle.com/code/vivektalwar13071999/hnm-kaggle
 
 
 Baseline: https://colab.research.google.com/drive/1BBSnItFlkwdPC9eK5TfEmPiLwF5Da1oC
+
+RTIC: https://colab.research.google.com/drive/1Xokha940060xjuyc7Ih7g7Z37BYBIukg
