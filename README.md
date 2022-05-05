@@ -7,9 +7,9 @@ https://drive.google.com/drive/folders/1I95ojY3RdJz5X2MbmuX6VXka8a5v2Udc
 
 https://colab.research.google.com/drive/1bc20meYkGAZYUG4qlKuSqMZUrEPFIaXs
 
-Embeddings for HnM Dataset generated using Swin Transformer architecture
+Replicated Codebase (corrections + new contributions used in notebooks)
 
-https://www.kaggle.com/vivektalwar13071999/hnm-embeddings
+https://github.com/praguna/visual-compatibility.git
 
 Testing a basic graph neural network
 
