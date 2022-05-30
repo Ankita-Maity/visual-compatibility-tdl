@@ -1,5 +1,9 @@
 # visual-compatibility-tdl
-DeepLearning Project
+### DeepLearning Project
+
+Implementation of Context-Aware Visual Compatibility Prediction (https://arxiv.org/abs/1902.03646)
+
+RTIC (https://arxiv.org/abs/2104.03015v2) was explored for multimodality.
 
 Currently work is carried out here :
 
@@ -11,14 +15,4 @@ Replicated Codebase (corrections + new contributions used in notebooks)
 
 https://github.com/praguna/visual-compatibility.git
 
-Testing a basic graph neural network
-
-https://www.kaggle.com/code/vivektalwar13071999/hnm-kaggle
-
-
-Baseline: https://colab.research.google.com/drive/1BBSnItFlkwdPC9eK5TfEmPiLwF5Da1oC
-
-RTIC: https://colab.research.google.com/drive/1Xokha940060xjuyc7Ih7g7Z37BYBIukg
-
 RGCN for HnM Fashion Recommendation System - https://www.kaggle.com/code/vivektalwar13071999/h-m-rgcn-annoy-2e9bab/edit
-
